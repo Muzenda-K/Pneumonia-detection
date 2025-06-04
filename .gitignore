@@ -1,0 +1,12 @@
+__pycache__
+*.ipynb_checkpoints
+data_plots
+evaluation_plots
+plots
+plots_test
+sample_images
+*.pyc
+*.zip
+.*png
+*.jpg
+*.jpeg
