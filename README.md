@@ -33,20 +33,20 @@ A deep learning project for detecting pneumonia from chest X-ray images, featuri
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/pneumonia-detection.git
    cd pneumonia-detection
    ```
 
 2. Create and activate a virtual environment:
 
-   ```bash
+   ```
    python -m venv venv
    source venv/bin/activate
    ```
 
 3. Install dependencies:
-   ```bash
+   ```
    pip install -r requirements.
    ```
 
@@ -54,14 +54,14 @@ A deep learning project for detecting pneumonia from chest X-ray images, featuri
 
 ### Running the FastAPI Backend
 
-    ```bash
+    ```
        fastapi dev main.py
     ```
     The API will be available at http://localhost:8000. Visit http://localhost:8000/docs for interactive API documentation.
 
 ### Running the Streamlit Frontend
 
-    ```bash
+    ```
         streamlit run app/main.py
     ```
     The Streamlit app will open in your default browser at http://localhost:8501.
