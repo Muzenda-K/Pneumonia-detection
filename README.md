@@ -62,9 +62,10 @@ A deep learning project for detecting pneumonia from chest X-ray images, featuri
 
 ### Running the Streamlit Frontend
 
-    ```
-    streamlit run app/main.py
-    ```
+```
+streamlit run app.py
+```
+
     The Streamlit app will open in your default browser at http://localhost:8501.
 
 ### API Endpoints
