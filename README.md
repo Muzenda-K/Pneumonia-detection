@@ -55,14 +55,14 @@ A deep learning project for detecting pneumonia from chest X-ray images, featuri
 ### Running the FastAPI Backend
 
     ```
-       fastapi dev main.py
+    fastapi dev main.py
     ```
     The API will be available at http://localhost:8000. Visit http://localhost:8000/docs for interactive API documentation.
 
 ### Running the Streamlit Frontend
 
     ```
-        streamlit run app/main.py
+    streamlit run app/main.py
     ```
     The Streamlit app will open in your default browser at http://localhost:8501.
 
